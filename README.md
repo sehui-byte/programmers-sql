@@ -1,6 +1,8 @@
 
 프로그래머스 **SQL 고득점 kit** 문제를 풀어 업로드합니다.  
-문제 출처 : https://programmers.co.kr/learn/challenges?tab=sql_practice_kit 
+- 오라클 
+- 문제 출처 : https://programmers.co.kr/learn/challenges?tab=sql_practice_kit 
+
 
 ---
 
